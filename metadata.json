@@ -1,0 +1,5 @@
+{
+  "name": "3D Interactive Portfolio",
+  "description": "A professional portfolio website showcasing skills and projects within an immersive 3D environment, built with React, Three.js, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
